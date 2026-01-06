@@ -1,4 +1,6 @@
-// --- Pin assignments ---
+// 4164/41256 DRAM tester for Arduino Nano by Necroware
+// License: CC-BY-SA-4.0
+
 const uint8_t JP1 = A4;
 const uint8_t G_LED = A2;
 const uint8_t R_LED = A3;
