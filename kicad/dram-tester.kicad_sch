@@ -1851,6 +1851,46 @@
 		(color 0 0 0 0)
 		(uuid "9ab327ab-ebc3-44c7-b5f8-a539c47bf124")
 	)
+	(no_connect
+		(at 143.51 113.03)
+		(uuid "0d6866e2-f5f3-44e7-82e7-2231e2688af3")
+	)
+	(no_connect
+		(at 118.11 113.03)
+		(uuid "1050c1d0-b611-4be3-8cac-ab0bb403e5f5")
+	)
+	(no_connect
+		(at 143.51 146.05)
+		(uuid "18f2f43e-210d-4284-8781-8fcb119abf52")
+	)
+	(no_connect
+		(at 143.51 143.51)
+		(uuid "5d88d312-d3e4-488a-b643-237ce364aeda")
+	)
+	(no_connect
+		(at 128.27 102.87)
+		(uuid "63092656-8c14-4d12-b9cd-561fb6a86e8f")
+	)
+	(no_connect
+		(at 118.11 115.57)
+		(uuid "7e8e3b4b-b525-41e0-bd83-6481b44988b5")
+	)
+	(no_connect
+		(at 133.35 102.87)
+		(uuid "85a8a4db-0e79-4ffa-8c09-6d76f38f55e0")
+	)
+	(no_connect
+		(at 143.51 115.57)
+		(uuid "89aef03c-333d-444c-bc52-8c5b30f728e1")
+	)
+	(no_connect
+		(at 143.51 140.97)
+		(uuid "9033dc92-e5c0-46d4-be59-e0f28b0f2fc3")
+	)
+	(no_connect
+		(at 143.51 123.19)
+		(uuid "b0942881-1fb7-4170-928d-20952f041b3d")
+	)
 	(bus_entry
 		(at 168.91 121.92)
 		(size 2.54 2.54)
