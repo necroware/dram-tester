@@ -1837,7 +1837,7 @@
 		(at 130.81 153.67)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "606c72fc-a3db-4a63-b81e-8c201724413d")
+		(uuid "77770849-e6e9-489e-8979-7d4553630c5e")
 	)
 	(junction
 		(at 151.13 92.71)
@@ -2954,7 +2954,7 @@
 		(uuid "a1ecdc2a-b324-4ef9-81da-4352dbc7c27f")
 	)
 	(label "CAS"
-		(at 144.78 128.27 0)
+		(at 144.78 130.81 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2974,7 +2974,7 @@
 		(uuid "b0239fb8-8297-4d0e-8faa-f183a14c563b")
 	)
 	(label "RAS"
-		(at 144.78 130.81 0)
+		(at 144.78 128.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3189,7 +3189,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 135.89 105.41 0)
+		(at 135.89 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3198,7 +3198,7 @@
 		(fields_autoplaced yes)
 		(uuid "1b401aeb-a334-4730-a448-451725902a31")
 		(property "Reference" "#PWR06"
-			(at 135.89 109.22 0)
+			(at 135.89 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3207,7 +3207,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 135.89 101.2769 0)
+			(at 135.89 98.7369 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3215,7 +3215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 105.41 0)
+			(at 135.89 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3224,7 +3224,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 105.41 0)
+			(at 135.89 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3233,7 +3233,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 135.89 105.41 0)
+			(at 135.89 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)

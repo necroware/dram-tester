@@ -4,8 +4,8 @@
 const uint8_t JP1 = A4;
 const uint8_t G_LED = A2;
 const uint8_t R_LED = A3;
-const uint8_t PIN_RAS = A1;
-const uint8_t PIN_CAS = A0;
+const uint8_t PIN_RAS = A0;
+const uint8_t PIN_CAS = A1;
 const uint8_t PIN_WE = 13;
 const uint8_t PIN_DO = 11;
 const uint8_t PIN_DI = 12;
